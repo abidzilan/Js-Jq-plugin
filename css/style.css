@@ -1,0 +1,53 @@
+/* isotope start */
+.item-menu{
+	margin: 30px auto;
+	text-align: center;
+}
+
+.item-menu ul li{
+	list-style: none;
+	padding: 10px 20px;
+	display: inline-block;
+	border: 1px solid salmon; 
+	cursor: pointer;
+	margin-right: 10px;
+	border-radius: 5px;
+}
+.item-menu ul li:hover, .item-menu ul li:active{
+	background-color:indianred;
+	color: white;
+}
+.item-details img{
+	width: 600px;
+	height: 350px;
+	padding-top: 30px;
+	padding-right: 30px;
+	
+}
+/* isotope end */
+/*carousel start*/
+.owl-carousel .owl-item img {
+     width: 400px;
+     height: 200px;
+}
+/*popup start*/
+.image{
+	width: 300px;
+	height: 150px;
+	margin-top: 30px;
+}
+.element{
+	font-size: 40px;
+	text-align: center;
+}
+/*particle start*/
+
+#particles-js{
+	width: 100%;
+	height: 100%;
+	background-image:url(../image/img7.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+/*particle end*/

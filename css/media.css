@@ -1,0 +1,381 @@
+/* Extra small devices (portrait phones, less than 376px)*/
+@media (max-width: 375.98px){
+			.services,.team-section,.portfolio-section,.about-us,.contact{
+			
+			padding-top:80px;
+			padding-bottom: 80px;
+			
+					}
+			/*header start*/
+			.menu ul li a{
+				float: right;
+			}
+			.menu ul li a{
+			padding: 3px 8px !important;
+						}
+			.menu ul li a:hover{
+				background-color: transparent;
+				color: #eb7d4b !important;
+			}
+			.text-box h1 {
+		   
+		    font-size:25px;
+		   
+				}			
+			.text-box a {
+		  
+		    font-size: 15px;
+		 
+						}
+				.btn {
+			   
+			    width: 230px;
+			    min-height: 45px;
+			   
+					}
+		/*services*/
+		.s_content h2 {
+    			font-size: 30px;
+   
+				}
+		.s_content p {
+  					  font-size: 16px;
+   
+						}
+		.s_single img {
+			    min-height: 115px;
+						}
+		.t_single img {
+			    width: 15rem;
+			    height: 15rem;
+			    border-radius: 50%;
+			}
+			/*portfolio start*/
+		.b_txt {
+				    width: 50px;
+				    min-height: 30px;
+				    font-size: 13px;
+				   
+				}
+		.btn{
+			font-size: 12px;
+		    width: 185px;
+		    height: 50px;
+		    margin-top: 25px;
+		    padding: 1px 60px;
+		}
+		/*about us start*/
+			.a_single1{
+				margin-top: 0px;
+			}
+			.a_content h2 {
+	    
+				    font-size: 30px;
+				    
+				}
+			.txt_part h5 {
+   
+				    font-size: 20px;
+				  
+						}
+			.txt_part h6 {
+   
+						    font-size: 13px;
+						    
+						}
+			.txt_part p {
+  
+			    font-size: 14px;
+			    word-spacing: 2px;
+			   
+			    line-height: 27px;
+			}
+			/*contact*/
+			.form1{
+				margin-bottom: 30px;
+				
+			}
+			.btn1 {
+					font-size: 13px;
+				    width: 121px;
+				    height: 50px;
+				   
+				    padding: 4px 30px;
+   
+				}
+			.c_content h2 {
+			   
+			    font-size: 30px;
+			   
+				}
+			.c_content p {
+   
+				   font-size: 14px;
+				   margin-bottom: 35px;
+							}
+					/*footer*/
+					.menu1 ul li a {
+						    font-size: 15px;
+						    padding: 3px 20px !important;
+						    float: left;
+			}
+			
+		
+		.form1,.form2{
+			width: 250px;
+		}
+		.form1{
+			margin-bottom: 30px;
+		}
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+	@media (min-width: 376px) and (max-width: 575.98px) { 
+		.services,.team-section,.portfolio-section,.about-us,.contact{
+		
+		padding-top:80px;
+		padding-bottom: 80px;
+		
+	}
+	/*header start*/
+	.menu ul li a{
+		float: right;
+	}
+	.menu ul li a{
+	padding: 3px 8px !important;
+				}
+	.menu ul li a:hover{
+		background-color: transparent;
+		color: #eb7d4b !important;
+	}
+	.text-box h1 {
+   
+    font-size:25px;
+   
+		}	
+	.text-box a {
+   
+    font-size: 15px;
+   
+		}		
+	.btn {
+   
+    width: 230px;
+    min-height: 45px;
+   
+		}
+		/*services*/
+		.s_content h2 {
+    			font-size: 30px;
+   
+				}
+		.s_content p {
+  					  font-size: 16px;
+   
+						}
+		.s_single img {
+			    min-height: 115px;
+						}
+		.t_single img {
+			    width: 15rem;
+			    height: 15rem;
+			    border-radius: 50%;
+			}
+			/*portfolio start*/
+		.b_txt {
+				    width: 50px;
+				    min-height: 30px;
+				    font-size: 13px;
+				   
+				}
+		.btn{
+			font-size: 12px;
+		    width: 185px;
+		    height: 50px;
+		    margin-top: 25px;
+		    padding: 1px 60px;
+		}
+		/*about us start*/
+			.a_single1{
+	margin-top: 0px;
+				}
+			.a_content h2 {
+	    
+				    font-size: 30px;
+				    
+				}
+			.txt_part h5 {
+   
+				    font-size: 20px;
+				  
+						}
+			.txt_part h6 {
+   
+						    font-size: 13px;
+						    
+						}
+			.txt_part p {
+  
+			    font-size: 14px;
+			    word-spacing: 2px;
+			   
+			    line-height: 27px;
+			}
+			/*contact*/
+			.form1{
+				margin-bottom: 30px;
+				
+			}
+			.btn1 {
+					font-size: 13px;
+				    width: 121px;
+				    height: 50px;
+				   
+				    padding: 4px 30px;
+   
+				}
+			.c_content h2 {
+			   
+			    font-size: 30px;
+			   
+				}
+			.c_content p {
+   
+				   font-size: 14px;
+				   margin-bottom: 35px;
+				}
+		/*footer*/
+		.menu1 ul li a {
+			    font-size: 15px;
+			    padding: 3px 20px !important;
+			    float: left;
+}
+			.form1,.form2{
+			width: 295px;
+		}
+		
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.services,.team-section,.portfolio-section,.about-us,.contact{
+	
+	padding-top:85px;
+	padding-bottom: 85px;
+	
+}
+	/*header start*/
+	.menu ul li a{
+		float: right;
+	}
+	.menu ul li a{
+	padding: 3px 10px !important;
+				}
+	.menu ul li a:hover{
+		background-color: transparent;
+		color: #eb7d4b !important;
+	}
+	.text-box h1 {
+   
+    font-size: 30px;
+   
+		}			
+	.btn {
+   
+    width: 240px;
+    min-height: 50px;
+    padding: 1px 60px;
+   
+		}
+		/*about us start*/
+		.a_single1{
+				margin-top: 0px;
+				}
+		.a_content h2 {
+    
+			    font-size: 30px;
+			    
+			}
+			/*footer*/
+		.menu1 ul li a {
+			    font-size: 15px;
+			    padding: 3px 20px !important;
+			    float: left;
+}
+		.form1,.form2{
+			width: 460px;
+		}
+		.form1{
+			margin-bottom: 30px;
+		}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.services,.team-section,.portfolio-section,.about-us,.contact{
+	
+	padding-top:90px;
+	padding-bottom: 90px;
+	
+}
+	/*header start*/
+	.menu ul li a{
+		float: right;
+	}
+	.menu ul li a{
+	padding: 3px 12px !important;
+				}
+	.menu ul li a:hover{
+		background-color: transparent;
+		color: #eb7d4b !important;
+	}
+	.text-box h1{
+   
+    font-size: 30px;
+   
+		}			
+	.btn {
+   
+    width: 253px;
+    min-height: 55px;
+   
+		}
+		
+				/*portfolio*/
+				.btn {
+    width: 217px;
+    
+    height: 64px;
+    padding: 5px 60px;
+}
+/*about us start*/
+		.a_single1{
+	margin-top: 40px;
+}
+		.form1,.form2{
+			width: 300px;
+			
+		}
+		/*footer*/
+		.menu1 ul li a {
+			    font-size: 15px;
+			    padding: 3px 20px !important;
+			    float: left;
+}
+	}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px)  { 
+	.text-box h1 {
+    font-size: 35px;
+   		}
+	.form1,.form2{
+		width: 425px;
+	}
+
+ }
+
+
+/*Extra Large devices (Large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+ }
+ 
